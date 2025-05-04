@@ -9,8 +9,7 @@
 2. Get Session
    
     
-     <a href='https://toxic-alexa-qr92-4bcc7b3bfc2c.herokuapp.com' target="_blank"><img alt='SESSION ID' // You know the drill. Put your CypherX session id here. Should look like: XPLOADER-BOT:~ (don't forget that, it's crucial!)
-
+     <a href='https://toxic-alexa-qr92-4bcc7b3bfc2c.herokuapp.com' target="_blank"><img alt='SESSION ID'
 
 2. Now Deploy
 
