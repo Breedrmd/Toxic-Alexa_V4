@@ -8,7 +8,7 @@
 
 2. Get Session
    
-     <a href='https://TURBOHYPER/Toxic-Alexa_V4-pair-Toxic-Alexa-d392f3b60559.herokuapp.com' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+     <a href='https://TURBOHYPER/Toxic-Alexa_V4-pair-d392f3b60559.herokuapp.com' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 2. Now Deploy
 
