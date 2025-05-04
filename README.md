@@ -8,8 +8,7 @@
 
 2. Get Session
    
-    
-     <a href='https://toxic-alexa-qr92-4bcc7b3bfc2c.herokuapp.com' target="_blank"><img alt='SESSION ID'
+     <a
 
 2. Now Deploy
 
